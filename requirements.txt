@@ -1,0 +1,6 @@
+python-telegram-bot
+boto3
+python-dotenv
+schedule
+python-telegram-bot[job-queue]
+

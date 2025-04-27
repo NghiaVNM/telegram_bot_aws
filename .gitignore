@@ -1,2 +1,11 @@
 # environment
 .env
+
+# virtual environment
+.venv
+
+# cache
+__pycache__/
+
+# dockerignore
+.dockerignore

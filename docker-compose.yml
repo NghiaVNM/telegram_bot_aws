@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  telegram_aws_bot:
+    image: conbocuoi/telegram-aws-bot:latest
+    container_name: telegram_aws_bot
+    restart: always
+    env_file:
+      - .env
